@@ -1,8 +1,6 @@
 [
   {
-    "title": "smartphone2",
-    "price": 456.78,
-    "quantity": 3,
-    "video_url": "smartphone2.mp4"
+    "id": "item1",
+    "quantity": 3
   }
 ]

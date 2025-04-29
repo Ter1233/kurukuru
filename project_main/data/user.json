@@ -118,5 +118,15 @@
     "id": 1745661628825,
     "username": "mas",
     "password": "$2b$10$dGW33RgNpcAnJ3NHd9cG.eGko1prv0PSyF3TkmCJ1rSJtUfqFC60K"
+  },
+  {
+    "id": 1745915855134,
+    "username": "testuser",
+    "password": "$2b$10$bO6H7mXM4h3kAbYP.CDGBeeO7ry2VQQsw4pk0egVIdLsPZVHYQEOu"
+  },
+  {
+    "id": 1745916724960,
+    "username": "bew1",
+    "password": "$2b$10$bzPT/T7Y9TBA6EIhn2fMU.VjQcf6ToSN8YzVYJqhO9u9Rl.a6I0Xi"
   }
 ]
